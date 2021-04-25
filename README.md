@@ -12,8 +12,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
     - builds the angular application
     - Deploys the output to Azure static app using the GitHub and Azure secret tokens
 
-API url: https://paritosh-test-app.azurewebsites.net/weatherforecast
-Demo: https://thankful-tree-06e6ab110.azurestaticapps.net/
+* API url: https://paritosh-test-app.azurewebsites.net/weatherforecast
+* Demo: https://thankful-tree-06e6ab110.azurestaticapps.net/
 
 ## Development server
 
